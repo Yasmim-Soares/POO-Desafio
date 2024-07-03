@@ -2,7 +2,6 @@ package Celular;
 
 import funcionalidade.reprodutorMusical.reprodutorMusical; 
 import funcionalidade.reprodutorMusical.pausar;
-import funcionalidade.reprodutorMusical.SelecionarMusica;
 import funcionalidade.reprodutorMusical.tocar;
 import funcionalidade.navegadorInternet.navegadorInternet;
 import funcionalidade.navegadorInternet.adicionarNovaAba;
